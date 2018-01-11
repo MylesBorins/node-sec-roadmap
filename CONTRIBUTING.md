@@ -15,6 +15,17 @@ You generally only need to submit a CLA once, so if you've already
 submitted one (even if it was for a different project), you probably
 don't need to do it again.
 
+## Local Development
+
+Running the command `npm start` will:
+
+* install all dependencies
+* build the book
+* start a development server
+* watch for changes
+
+If you would like to view the book in your browser at `http://localhost:4000`
+
 ## Code reviews
 
 All submissions, including submissions by project members, require review. We
